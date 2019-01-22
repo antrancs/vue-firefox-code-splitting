@@ -3,7 +3,6 @@
 </template>
 
 <script lang="ts">
-import d3 from "d3";
 import lodash from "lodash";
 import { Component, Vue } from "vue-property-decorator";
 
